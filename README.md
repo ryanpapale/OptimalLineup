@@ -1,2 +1,2 @@
 # OptimalLineup
-Finds the Optimal Lineup for a Baseball Team
+This script uses the Kuhn-Munkres algorithm to solve for the optimal lineup against LHPs and RHPs. 
